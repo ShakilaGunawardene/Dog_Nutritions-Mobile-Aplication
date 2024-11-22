@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "129949005104",
+    "firebase_url": "https://fidofests-default-rtdb.firebaseio.com",
+    "project_id": "fidofests",
+    "storage_bucket": "fidofests.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129949005104:android:f59320d868e5cc781204f5",
+        "android_client_info": {
+          "package_name": "com.example.fidof"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl5BPg-Nul4gKVHu7WKg_wjaIo8sxbKxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129949005104:android:8c31a9fbecd36bb91204f5",
+        "android_client_info": {
+          "package_name": "com.example.fidofests"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl5BPg-Nul4gKVHu7WKg_wjaIo8sxbKxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
